@@ -107,6 +107,7 @@ form {
     border-radius: 50%;
     line-height: 40px;
     margin: 0 5px;
+    cursor: pointer;
     color: #FFF;
   }
   
